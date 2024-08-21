@@ -1,4 +1,4 @@
-- 👋Hello, I'm @hoshino_2112
+- 👋Hello, I'm @wexafi
 - 😤Trying to write modules for Hikka
-- 📬My telegram: @hoshino_2112
+- 📬My telegram: @wexafi
 - 🖌Learning Python and Aiogram
