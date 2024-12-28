@@ -1,1 +1,1 @@
-<div id="header" align="center"> <img src="https://aniyuki.com/wp-content/uploads/2023/05/aniyuki-oshi-no-ko-gif-31.gif" width="550" height="250"/>
+<div id="header" align="center"> <img src="https://aniyuki.com/wp-content/uploads/2023/05/aniyuki-oshi-no-ko-gif-31.gif" width="500" height="250"/>
